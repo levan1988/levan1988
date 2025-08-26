@@ -28,3 +28,12 @@ SC-300: Administrador de Identidad y Acceso
 SC-100: Arquitecto de Seguridad Cibernética de Microsoft
 
 🎯 Objetivo profesional: consolidarme como especialista en administración cloud y seguridad en entornos Microsoft, aportando valor desde el soporte técnico hasta la implementación y mejora de soluciones cloud escalables.
+
+## Certificaciones Microsoft Azure
+
+<img width="666" height="222" alt="image" src="https://github.com/user-attachments/assets/5a39291f-f15a-4700-b953-9dd33e0c4eae" />
+
+
+
+
+
