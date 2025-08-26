@@ -14,6 +14,11 @@ AZ-104: Administrador de Azure
 
 AZ-305: Arquitectura de soluciones en Azure
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-F25022?style=flat&logo=microsoftoffice&logoColor=white)
+
+
+
 📚 Actualmente en preparación:
 
 SC-900: Fundamentos de Seguridad, Cumplimiento e Identidad
