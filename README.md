@@ -34,6 +34,9 @@ SC-100: Arquitecto de Seguridad Cibernética de Microsoft
  <img width="617" height="410" alt="image" src="https://github.com/user-attachments/assets/7033e725-6d2e-4454-8614-38a1871763ce" />
 
 
+      
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=levantamazashvili" target="_blank">Follow on LinkedIn</a>
+
 
 
 
