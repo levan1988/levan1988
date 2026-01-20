@@ -21,8 +21,6 @@ AZ-305: Arquitectura de soluciones en Azure
 
 📚 Actualmente en preparación:
 
-SC-900: Fundamentos de Seguridad, Cumplimiento e Identidad
-
 SC-300: Administrador de Identidad y Acceso
 
 SC-100: Arquitecto de Seguridad Cibernética de Microsoft
