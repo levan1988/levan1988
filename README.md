@@ -16,6 +16,8 @@ AZ-305: Arquitectura de soluciones en Azure
 
 SC-300: Administrador de Identidad y Acceso
 
+SC-100: Arquitecto de ciberseguridad de Microsoft
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-F25022?style=flat&logo=microsoftoffice&logoColor=white)
 
