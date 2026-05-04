@@ -18,9 +18,6 @@ SC-300: Administrador de Identidad y Acceso
 
 SC-100: Arquitecto de ciberseguridad de Microsoft
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-F25022?style=flat&logo=microsoftoffice&logoColor=white)
-
 
 
 📚 Actualmente en preparación:
@@ -31,7 +28,8 @@ MS-102: Administrador Experto de Microsoft 365
 
 ## Certificaciones Microsoft Azure
 
- <img width="617" height="410" alt="image" src="https://github.com/user-attachments/assets/7033e725-6d2e-4454-8614-38a1871763ce" />
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/85401157-abd7-4f59-af2d-2f974e428419" />
+
 
 
       
