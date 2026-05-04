@@ -25,7 +25,7 @@ SC-100: Arquitecto de ciberseguridad de Microsoft
 
 📚 Actualmente en preparación:
 
-SC-100: Arquitecto de Seguridad Cibernética de Microsoft
+MS-102: Administrador Experto de Microsoft 365
 
 🎯 Objetivo profesional: consolidarme como especialista en administración cloud y seguridad en entornos Microsoft, aportando valor desde el soporte técnico hasta la implementación y mejora de soluciones cloud escalables.
 
